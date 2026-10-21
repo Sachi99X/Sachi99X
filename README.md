@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Sachin Dasanaaka**, a technology enthusiast focused on computer hardware, software support, and operating system troubleshooting.
+Hello! I'm **Sachin Dasanayaka**, a technology enthusiast focused on computer hardware, software support, and operating system troubleshooting.
 
 I enjoy understanding how computer systems work, diagnosing technical problems, maintaining reliable systems, and exploring practical IT solutions.
 
