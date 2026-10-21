@@ -1,4 +1,4 @@
-# 💻 Sachin Dasanaaka | Computer Hardware & Software Technician
+# 💻 Sachin Dasanayaka | Computer Hardware & Software Technician
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=TECHNICAL%20SUPPORT%20%7C%20IT%20SOLUTIONS&fontSize=25&fontColor=ffffff&fontAlignY=38&desc=Diagnose%20%7C%20Repair%20%7C%20Optimize&descAlignY=60&descSize=16" width="100%" alt="Technical Support and IT Solutions banner"/>
