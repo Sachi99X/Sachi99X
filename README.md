@@ -56,6 +56,13 @@ I enjoy understanding how computer systems work, diagnosing technical problems, 
 - System performance investigation
 - Technical documentation and user support
 
+- ## 🛠️ Featured IT Projects
+
+### 💻 IT Technician Toolkit
+Practical resources for computer hardware support, Windows troubleshooting, Linux commands, and PC maintenance.
+
+**[Explore the IT Technician Toolkit →](https://github.com/Sachi99X/it-technician-toolkit)**
+
 ### 💻 Tools & Technologies
 
 <p>
